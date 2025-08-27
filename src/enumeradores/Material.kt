@@ -1,6 +1,6 @@
 package enumeradores
 
 enum class Material {
-    FIBRA, PVC, POLIESTILENO,
+    FIBRA, PVC, POLIESTILENO, PLASTICO
 
 }

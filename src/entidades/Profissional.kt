@@ -1,6 +1,5 @@
 package entidades
 
-import Conta
 import enumeradores.Genero
 import enumeradores.Setor
 import java.math.BigDecimal
